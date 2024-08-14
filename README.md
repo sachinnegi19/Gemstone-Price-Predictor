@@ -1,7 +1,7 @@
-## Gemstone Price Predictor
+# Gemstone Price Predictor
 
-# Introduction About the Data :
-The dataset The goal is to predict price of given diamond (Regression Analysis).
+## Introduction About the Data :
+### The dataset The goal is to predict price of given diamond (Regression Analysis).
 
 There are 10 independent variables (including id):
 
